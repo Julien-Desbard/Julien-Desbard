@@ -3,7 +3,7 @@
 **Développeur Fullstack** | React • Node.js • TypeScript  
 📍 Lyon, France
 
-Spécialisé dans la création de solutions web orientées business avec une forte attention portée à l'expérience utilisateur.
+Spécialisé dans la création de solutions web orientées business avec une grande attention portée à l'expérience utilisateur.
 
 ---
 
@@ -108,7 +108,8 @@ Développement en équipe avec gestion des rôles utilisateurs, paiement via str
 
 🔭 Je développe **SmartCollect**, un système de gestion de factures intelligent et automatisé  
 🌱 Architecture séparée • React + Vite • Node.js • PostgreSQL  
-📍 **Recherche active** d'opportunités sur Lyon / Chambéry / Grenoble
+📍 **Recherche active** d'opportunités sur Lyon, Grenoble et Chambéry
+
 ---
 
 ## 📫 Contact
