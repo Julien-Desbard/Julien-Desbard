@@ -1,6 +1,6 @@
 # Julien Desbard
 
-**Développeur Fullstack** | React • Node.js • TypeScript  
+**Développeur Fullstack** | TypeScript • React • Node.js
 📍 Lyon / Chambéry / Grenoble, France
 
 Spécialisé dans la création de solutions web orientées business avec une grande attention portée à l'expérience utilisateur.
@@ -19,13 +19,14 @@ Spécialisé dans la création de solutions web orientées business avec une gra
 
 ### Frontend
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-%23E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-%231572B6?style=flat-square&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
 ### Validation & Sécurité
 
@@ -35,12 +36,13 @@ Spécialisé dans la création de solutions web orientées business avec une gra
 
 ### Outils & DevOps
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white)
 ![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ### Documentation & Monitoring
 
@@ -69,8 +71,8 @@ Spécialisé dans la création de solutions web orientées business avec une gra
 
 Site complet avec CMS headless, authentification et gestion de contenu dynamique.
 
-**Stack :** Next.js • TypeScript • Strapi • NextAuth • Tailwind CSS  
-**Déploiement :** Vercel (frontend) • Render (API & BDD)
+**Stack :** Next.js • TypeScript • JavaScript • React • Node.js • PostgreSQL • Strapi • NextAuth  
+**Déploiement :** Vercel (frontend) • Neon (BDD) • Fly.io (API)
 
 [🔗 Voir le site](https://bar-du-centre.vercel.app) | 💻 Code source - disponible sur demande
 
@@ -89,9 +91,9 @@ Site complet avec CMS headless, authentification et gestion de contenu dynamique
 
 **Site vitrine d'un parc d'attractions fictif** (projet de fin de bootcamp)
 
-Développement en équipe avec gestion des rôles utilisateurs, paiement via stripe interface administrateur avec gestion du CRUD des attractions.
+Développement en équipe avec gestion des rôles utilisateurs, paiement via stripe, interface administrateur avec gestion du CRUD des attractions.
 
-**Stack :** React • Node.js • Express • PostgreSQL  
+**Stack :** Next.js • TypeScript • JavaScript • React • Node.js • PostgreSQL
 
 [🔗 Voir le site](https://zombieland-front-vercel.vercel.app/) | [💻 Code source](https://github.com/Julien-Desbard/Zombieland)
 
@@ -108,9 +110,9 @@ Développement en équipe avec gestion des rôles utilisateurs, paiement via str
 
 ## 💼 Actuellement
 
-🔭 Je développe **SmartCollect**, un système de gestion de factures intelligent et automatisé  
-🌱 Architecture séparée • React + Vite • Node.js • PostgreSQL  
-📍 **Recherche active** d'opportunités sur Lyon, Grenoble et Chambéry
+🔭 J'implémente des pipelines CI/CD complets sur **Bar du Centre** (tests Jest, GitHub Actions, déploiement automatisé)  
+🎯 Prochaine étape : optimisation des performances (Lighthouse CI, Web Vitals, monitoring Sentry)  
+📍 **Recherche active** d'opportunités sur Lyon, Grenoble et Chambéry  
 
 ---
 
