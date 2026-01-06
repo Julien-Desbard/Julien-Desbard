@@ -1,13 +1,13 @@
 # Julien Desbard
 
 **Développeur Fullstack** | TypeScript • React • Node.js
-📍 Lyon / Chambéry / Grenoble, France
+Lyon / Chambéry / Grenoble, France
 
 Spécialisé dans la création de solutions web orientées business avec une grande attention portée à l'expérience utilisateur.
 
 ---
 
-## 🛠️ Stack Technique
+## Stack Technique
 
 ### Backend
 
@@ -63,9 +63,9 @@ Spécialisé dans la création de solutions web orientées business avec une gra
 
 ---
 
-## 🚀 Projets Phares
+## Projets Phares
 
-### 🍺 Le Bar du Centre
+### Le Bar du Centre
 
 **Site vitrine pour une brasserie historique d'Angers**
 
@@ -76,18 +76,15 @@ Site complet avec CMS headless, authentification et gestion de contenu dynamique
 
 [🔗 Voir le site](https://bar-du-centre.vercel.app) | 💻 Code source - disponible sur demande
 
-<details>
-<summary>📸 Captures d'écran</summary>
+📸 Captures d'écran
 
-<img src="./images/bdc/homepage.jpg" alt="Homepage" width="600"/>
-<img src="./images/bdc/events.jpg" alt="Carrousel événements" width="600"/>
-<img src="./images/bdc/menu.jpg" alt="Menu" width="600"/>
-
-</details>
+<img src="./images/bdc/homepage.jpg" alt="Homepage" width="450"/>
+<img src="./images/bdc/events.jpg" alt="Carrousel événements" width="450"/>
+<img src="./images/bdc/menu.jpg" alt="Menu" width="450"/>
 
 ---
 
-### 🧟 Zombieland - Projet collaboratif
+### Zombieland - Projet collaboratif
 
 **Site vitrine d'un parc d'attractions fictif** (projet de fin de bootcamp)
 
@@ -97,26 +94,23 @@ Développement en équipe avec gestion des rôles utilisateurs, paiement via str
 
 [🔗 Voir le site](https://zombieland-front-vercel.vercel.app/) | [💻 Code source](https://github.com/Julien-Desbard/Zombieland)
 
-<details>
-<summary>📸 Captures d'écran</summary>
+📸 Captures d'écran
 
-<img src="./images/zombieland/homepage.jpg" alt="Homepage" width="600"/>
-<img src="./images/zombieland/attractions.jpg" alt="Attractions" width="600"/>
-<img src="./images/zombieland/profile.jpg" alt="Profil utilisateur" width="600"/>
-
-</details>
+<img src="./images/zombieland/homepage.jpg" alt="Homepage" width="450"/>
+<img src="./images/zombieland/attractions.jpg" alt="Attractions" width="450"/>
+<img src="./images/zombieland/profile.jpg" alt="Profil utilisateur" width="450"/>
 
 ---
 
-## 💼 Actuellement
+## Actuellement
 
-🔭 J'implémente des pipelines CI/CD complets sur **Bar du Centre** (tests Jest, GitHub Actions, déploiement automatisé)  
-🎯 Prochaine étape : optimisation des performances (Lighthouse CI, Web Vitals, monitoring Sentry)  
-📍 **Recherche active** d'opportunités sur Lyon, Grenoble et Chambéry  
+J'implémente des pipelines CI/CD complets sur **Bar du Centre** (tests Jest, GitHub Actions, déploiement automatisé)  
+Prochaine étape : optimisation des performances (Lighthouse CI, Web Vitals, monitoring Sentry)  
+**Recherche active** d'opportunités sur Lyon, Grenoble et Chambéry  
 
 ---
 
-## 📫 Contact
+## Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julien-desbard)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:julien.desbard@gmail.com)
