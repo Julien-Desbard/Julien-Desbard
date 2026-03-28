@@ -119,7 +119,7 @@ Participation bénévole au projet [theirmemory.org](https://theirmemory.org) : 
 
 **Stack :** Next.js • TypeScript • JavaScript • Node.js • PostgreSQL
 
-[🔗 Voir le site](https://theirmemory.org) | 💻 Code source - Privé 
+[🔗 Voir le site](https://theirmemory.org) | 💻 Code source — disponible sur demande
 
 <details>
 <summary>📸 Captures d'écran</summary>
