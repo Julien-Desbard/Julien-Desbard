@@ -100,7 +100,7 @@ Application SaaS qui permet aux TPE/PME de suivre leurs documents réglementaire
 **Stack :** Next.js 15 • TypeScript • Node.js • PostgreSQL • Claude API (Anthropic) • Prisma  
 **Déploiement :** Vercel
 
-[🔗 Voir la démo](https://smart-relance.vercel.app) | [💻 Code source](https://github.com/Julien-Desbard/SmartRelance)
+[🔗 Voir la démo](https://smart-conforme.vercel.app) | [💻 Code source](https://github.com/Julien-Desbard/SmartRelance)
 
 <details>
 <summary>📸 Captures d'écran</summary>
@@ -155,7 +155,7 @@ Développement en équipe avec gestion des rôles utilisateurs, paiement via Str
 
 ## Actuellement
 
-🚀 **Freelance** sous la marque [Agence Versatile](https://agenceversatile.com) — sites et applications web clé en main pour TPE/PME, artisans et collectivités  
+🚀 **Freelance** sous la marque [Agence Versatile](https://agence-versatile.com) — sites et applications web clé en main pour TPE/PME, artisans et collectivités  
 🔧 Développement de **SmartConforme**, SaaS de conformité documentaire intégrant l'API Claude (Anthropic)  
 🤝 Contribution bénévole au projet **Their Memory** (theirmemory.org)  
 📍 Basé à Pont-de-Beauvoisin — disponible Lyon, Chambéry, Grenoble et remote
