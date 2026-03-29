@@ -105,7 +105,7 @@ Application SaaS qui permet aux TPE/PME de suivre leurs documents réglementaire
 <details>
 <summary>📸 Captures d'écran</summary>
 
-![SmartConforme](images/smartconforme/smartconforme.jpg)
+![SmartConforme](images/smartconforme/smartconform.webp)
 
 </details>
 
@@ -124,7 +124,7 @@ Participation bénévole au projet [theirmemory.org](https://theirmemory.org) : 
 <details>
 <summary>📸 Captures d'écran</summary>
 
-![TheirMemory](images/theirmemory/theirmemory.jpg)
+![TheirMemory](images/theirmemory/theirmemory.webp)
 
 </details>
 
